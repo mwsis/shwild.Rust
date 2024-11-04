@@ -31,7 +31,7 @@
 
 
 * `matches!()`;
-* `assert_matches!()` - needs (and supplements) **test_help-rs**;
+✅ `assert_shwild_matches!()`, `assert_shwild_not_matches!()`;
 * `assert_contains!()` - needs (and supplements) **test_help-rs**;
 * `assert_starts_with!()` - needs (and supplements) **test_help-rs**;
 * `assert_ends_with!()` - needs (and supplements) **test_help-rs**;
